@@ -7,5 +7,7 @@ Sekarang sudah waktunya untuk masuk ke Spring MIT
 
 ```bash
 git clone https://github.com/faoziaziz/SpringMIT goMit
-cd goMIT
+cd goMIT/SpringMITcode
+
+mvn dependency:go-offline
 ```
